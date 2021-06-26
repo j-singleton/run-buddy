@@ -34,6 +34,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +48,7 @@
       <workItem from="1624459234283" duration="28000" />
       <workItem from="1624462754582" duration="176000" />
       <workItem from="1624577407291" duration="5767000" />
-      <workItem from="1624719345817" duration="6662000" />
+      <workItem from="1624719345817" duration="11373000" />
     </task>
     <servers />
   </component>
